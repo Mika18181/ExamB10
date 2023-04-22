@@ -1,0 +1,17 @@
+C:\Users\Илона\Desktop\iwannadie\Store\Store\bin\Debug\net7.0-windows\Store.exe
+C:\Users\Илона\Desktop\iwannadie\Store\Store\bin\Debug\net7.0-windows\Store.deps.json
+C:\Users\Илона\Desktop\iwannadie\Store\Store\bin\Debug\net7.0-windows\Store.runtimeconfig.json
+C:\Users\Илона\Desktop\iwannadie\Store\Store\bin\Debug\net7.0-windows\Store.dll
+C:\Users\Илона\Desktop\iwannadie\Store\Store\bin\Debug\net7.0-windows\Store.pdb
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.csproj.AssemblyReference.cache
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.Form1.resources
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.csproj.GenerateResource.cache
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.AssemblyInfoInputs.cache
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.AssemblyInfo.cs
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.csproj.CoreCompileInputs.cache
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.dll
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\refint\Store.dll
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.pdb
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\Store.genruntimeconfig.cache
+C:\Users\Илона\Desktop\iwannadie\Store\Store\obj\Debug\net7.0-windows\ref\Store.dll
